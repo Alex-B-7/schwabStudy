@@ -120,7 +120,7 @@ fSchwabStudy <- function(tbblIns){
   return(merged_all)
 
 }
-
+#sick
 tbblIns <- fIns()
 
 merged_all <- fSchwabStudy(tbblIns)
